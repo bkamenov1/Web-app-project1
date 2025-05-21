@@ -1,0 +1,8 @@
+# Ignore node modules if you ever add Node.js code
+node_modules/
+
+# Ignore local VSCode settings
+.vscode/
+
+# Ignore zip packages
+*.zip
